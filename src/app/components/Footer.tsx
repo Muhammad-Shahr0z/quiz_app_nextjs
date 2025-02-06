@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
           whileHover={{ scale: 1.05 }}
           transition={{ type: "spring", stiffness: 100 }}
         >
-          Created by <span className="font-bold">Muhammad Shahroz</span> | Student Leader | Sunday 2 to 5
+          Created by <span className="font-bold">Muhammad Shahroz</span> | Student Leader 
         </motion.p>
 
         <motion.a
